@@ -51,12 +51,12 @@ img{
 }
 
 .space{
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     background-color: rgb(15, 14, 23);
     color: #fff;
     height: 120px;
-    line-height: 2rem;
-    width: 95%;
+    line-height: 2.5rem;
+    width: 99%;
    
 
     
@@ -85,5 +85,9 @@ h2{
     width: calc(100% / 3);
     
     
+}
+
+span{
+    color: rgb(41, 180, 223);
 }
 
