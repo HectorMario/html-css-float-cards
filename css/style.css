@@ -6,7 +6,7 @@
 }
 /* body */
 body{
-    font-family: 'Fredoka', sans-serif;
+    font-family: 'Fredoka one', cursive;
 }
 
 /* main */
@@ -54,9 +54,10 @@ img{
     margin-bottom: 60px;
     background-color: rgb(15, 14, 23);
     color: #fff;
-    height: 120px;
+    height:8rem;
     line-height: 2.5rem;
     width: 100%;
+    word-wrap: break-word;
    
 
     
@@ -91,5 +92,6 @@ h2{
 
 span{
     color: rgb(41, 180, 223);
+    font-size: 1rem;
 }
 
