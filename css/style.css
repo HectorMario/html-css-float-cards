@@ -12,6 +12,7 @@ body{
 /* main */
 main{
     margin: 30px 13%;
+   
 }
 
 .space::after{
@@ -35,47 +36,54 @@ h1{
 
 /* teams */
 
-.teams{
-    
-    width: 100%;
-}
+
 
 img{
     
     max-height: 100%;
     margin-right: 5px;
     float: left;
+    max-width: 100%;
+   
+    
     
    
 }
 
 .space{
     margin-bottom: 30px;
-    margin-right: 10px;
     background-color: rgb(15, 14, 23);
     color: #fff;
-    height: 6rem;
-    width: 100%;
-    line-height: 2rem 
+    height: 120px;
+    line-height: 2rem;
+    width: 95%;
+   
+
     
 }
 
 h2{
     font-size: medium;
+    
 }
 
 .left{
     width: calc(100% / 3);
     float: left;
+    
 }
 
 
 .mid{
     width: calc(100% / 3);
     float: left;
+    
 }
 
 .right{
     float: left;
     width: calc(100% / 3);
+    
+    
 }
+
